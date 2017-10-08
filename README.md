@@ -23,5 +23,6 @@ Hora de olhar a doc!
 
 ### Mais um pouquinho de teoria
 
-* 13 - coleções: listas - 
+* 13 - coleções: listas - http://www.codeskulptor.org/#user43_54FS1YaGYn_6.py
 * 14 - Programando com classe - http://www.codeskulptor.org/#user43_aJA0oZLxWH_0.py
+* 15 - Jogos: estado e loop
