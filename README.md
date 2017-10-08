@@ -8,7 +8,7 @@ Planilha --> http://bit.ly/pyeccos-sheet
 * 2 - Variaveis e operacoes - http://www.codeskulptor.org/#user43_Jr8lLzYAfM_0.py
 * 3 - Funções - http://www.codeskulptor.org/#user43_5OYkSBWFBH_4.py
 * 4 - Tipos de valores - http://www.codeskulptor.org/#user43_FAqfwp0ik9_5.py
-* 5 - Tomando decisoes - http://www.codeskulptor.org/#user43_FAqfwp0ik9_7.py
+* 5 - Tomando decisoes - http://www.codeskulptor.org/#user43_FAqfwp0ik9_8.py
 * 6 - Loops radicais - http://www.codeskulptor.org/#user43_724Y2fawx2_1.py
 
 ### Um poquinho de prática
